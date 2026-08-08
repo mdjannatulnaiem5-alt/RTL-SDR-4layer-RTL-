@@ -54,3 +54,13 @@ The hardware utilizes a **4-Layer PCB Stackup** to reduce RF loss and mitigate d
 *   **Industry Tools:** Altium Designer | KiCad | Cadence Allegro | Git Version Control | ModelSim / Verilator.
 
 
+---
+
+## 🛠️ Developer Core Expertise & Compliance
+
+*   **PCB Design & Layout:** 4 to 6-Layer High-Speed Board Design | Signal & Power Integrity (SI/PI) | Impedance Matching | Stackup Optimization.
+*   **Standards & Compliance:** IPC-2221B (Design) | IPC-A-610H (Acceptability) | IPC-6012E (Rigid Boards) | IPC Class 2 & Class 3 Compliance.
+*   **Processor Architecture:** RISC-V ISA Extension Validation | RTL Verification | Core Integration (Active RISC-V International Contributor).
+*   **Embedded Systems & Firmware:** C/C++ | Assembly | Bare-Metal Firmware Development | Real-Time Operating Systems (RTOS).
+*   **Industry Tools:** Altium Designer | KiCad | Cadence Allegro | Git Version Control | ModelSim / Verilator.
+*   

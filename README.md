@@ -1,6 +1,7 @@
 # RTL-SDR-4layer-RTL-
 PCB board digin structure 
 
+PCB board diginer architecture IPC stander 
 ### RTL-SDR Blog V4 - Hardware Implementation & Documentation
 
 ##An advanced Software Defined Radio (SDR) receiver based on the **RTL-SDR Blog V4** architecture. This repository contains the structural design, chip configuration, and RF optimization breakdown for this specific hardware implementation using a high-density 4-layer PCB layout.
